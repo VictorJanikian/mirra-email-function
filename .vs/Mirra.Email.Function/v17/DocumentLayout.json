@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|c:\\users\\vcjan\\desktop\\projects\\mirra.email.function\\mirra.email.function\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|solutionrelative:mirra.email.function\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|c:\\users\\vcjan\\desktop\\projects\\mirra.email.function\\mirra.email.function\\emailfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|solutionrelative:mirra.email.function\\emailfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vcjan\\AppData\\Roaming\\Microsoft\\UserSecrets\\33359284-1740-4fc5-8a53-bfad36301209\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|c:\\users\\vcjan\\desktop\\projects\\mirra.email.function\\mirra.email.function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|solutionrelative:mirra.email.function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|c:\\users\\vcjan\\desktop\\projects\\mirra.email.function\\mirra.email.function\\service\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|solutionrelative:mirra.email.function\\service\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|c:\\users\\vcjan\\desktop\\projects\\mirra.email.function\\mirra.email.function\\model\\emailinboundrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|solutionrelative:mirra.email.function\\model\\emailinboundrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|c:\\users\\vcjan\\desktop\\projects\\mirra.email.function\\mirra.email.function\\mapper\\emailrequestprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|solutionrelative:mirra.email.function\\mapper\\emailrequestprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|c:\\users\\vcjan\\desktop\\projects\\mirra.email.function\\mirra.email.function\\model\\emailoutboundrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|solutionrelative:mirra.email.function\\model\\emailoutboundrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|c:\\users\\vcjan\\desktop\\projects\\mirra.email.function\\mirra.email.function\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|solutionrelative:mirra.email.function\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|c:\\users\\vcjan\\desktop\\projects\\mirra.email.function\\mirra.email.function\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C798C530-7583-4176-BC1C-0833880B43C3}|Mirra.Email.Function\\Mirra.Email.Function.csproj|solutionrelative:mirra.email.function\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 323,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "Mirra.Email.Function\\Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\Service\\EmailService.cs",
+              "RelativeToolTip": "Mirra.Email.Function\\Service\\EmailService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:39:25.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\Service\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Mirra.Email.Function\\Service\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\Service\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "Mirra.Email.Function\\Service\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:38:56.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\vcjan\\AppData\\Roaming\\Microsoft\\UserSecrets\\33359284-1740-4fc5-8a53-bfad36301209\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\33359284-1740-4fc5-8a53-bfad36301209\\secrets.json",
+              "ToolTip": "C:\\Users\\vcjan\\AppData\\Roaming\\Microsoft\\UserSecrets\\33359284-1740-4fc5-8a53-bfad36301209\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\33359284-1740-4fc5-8a53-bfad36301209\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T19:35:38.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailRequestProfile.cs",
+              "DocumentMoniker": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\Mapper\\EmailRequestProfile.cs",
+              "RelativeDocumentMoniker": "Mirra.Email.Function\\Mapper\\EmailRequestProfile.cs",
+              "ToolTip": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\Mapper\\EmailRequestProfile.cs",
+              "RelativeToolTip": "Mirra.Email.Function\\Mapper\\EmailRequestProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:33:12.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailOutBoundRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\Model\\EmailOutBoundRequest.cs",
+              "RelativeDocumentMoniker": "Mirra.Email.Function\\Model\\EmailOutBoundRequest.cs",
+              "ToolTip": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\Model\\EmailOutBoundRequest.cs",
+              "RelativeToolTip": "Mirra.Email.Function\\Model\\EmailOutBoundRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:29:19.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailInboundRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\Model\\EmailInboundRequest.cs",
+              "RelativeDocumentMoniker": "Mirra.Email.Function\\Model\\EmailInboundRequest.cs",
+              "ToolTip": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\Model\\EmailInboundRequest.cs",
+              "RelativeToolTip": "Mirra.Email.Function\\Model\\EmailInboundRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:23:53.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\Program.cs",
+              "RelativeDocumentMoniker": "Mirra.Email.Function\\Program.cs",
+              "ToolTip": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\Program.cs",
+              "RelativeToolTip": "Mirra.Email.Function\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:18:19.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailFunction.cs",
+              "DocumentMoniker": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\EmailFunction.cs",
+              "RelativeDocumentMoniker": "Mirra.Email.Function\\EmailFunction.cs",
+              "ToolTip": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\EmailFunction.cs",
+              "RelativeToolTip": "Mirra.Email.Function\\EmailFunction.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvyIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:13:55.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\local.settings.json",
+              "RelativeDocumentMoniker": "Mirra.Email.Function\\local.settings.json",
+              "ToolTip": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\local.settings.json",
+              "RelativeToolTip": "Mirra.Email.Function\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T19:18:18.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\host.json",
+              "RelativeDocumentMoniker": "Mirra.Email.Function\\host.json",
+              "ToolTip": "C:\\Users\\vcjan\\Desktop\\projects\\Mirra.Email.Function\\Mirra.Email.Function\\host.json",
+              "RelativeToolTip": "Mirra.Email.Function\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T19:18:15.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 323,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
