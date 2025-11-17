@@ -1,0 +1,39 @@
+# Ignore build output directories
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (when using nuget)
+packages/
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET Scaffolding
+Scaffolding/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.[Cc]ache
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+Thumbs.db
+Desktop.ini

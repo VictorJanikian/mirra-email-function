@@ -24,7 +24,8 @@ builder.Services
             );
     },
     AppDomain.CurrentDomain.GetAssemblies())
-    .AddSingleton<IEmailService, EmailService>();
+   .AddSingleton<IEmailService, EmailService>()
+   .AddSingleton<IPreOrderService, PreOrderService>();
 
 builder.Configuration
         .AddUserSecrets<Program>()
