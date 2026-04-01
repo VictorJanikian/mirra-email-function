@@ -41,7 +41,7 @@
                             <ul style=""margin:0 0 16px 18px; padding:0;"">
                                 <li style=""margin-bottom:6px;"">Save time producing posts;</li>
                                 <li style=""margin-bottom:6px;"">Maintain a consistent presence on social media;</li>
-                                <li style=""margin-bottom:6px;"">Scale your reach across multiple networks and blogs;</li>
+                                <li style=""margin-bottom:6px;"">Scale your reach across multiple social media and blogs;</li>
                                 <li style=""margin-bottom:6px;"">Automate audience discovery.</li>
                             </ul>
 
